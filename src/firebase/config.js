@@ -3,13 +3,13 @@ import { getAuth, GoogleAuthProvider, OAuthProvider } from "firebase/auth";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBPaQ9wgAWOZoPbmZH9I4zx8hvDRLRjUaI",
-  authDomain: "kitobolami0.firebaseapp.com",
-  projectId: "kitobolami0",
-  storageBucket: "kitobolami0.firebasestorage.app",
-  messagingSenderId: "516038960198",
-  appId: "1:516038960198:web:6649cc12829d779b915647",
-  measurementId: "G-30SP39P1XG"
+  apiKey: "AIzaSyBWIM0wDQC_fxCybadsHbLI4yFTKfhTKFg",
+  authDomain: "braingame-dafdb.firebaseapp.com",
+  projectId: "braingame-dafdb",
+  storageBucket: "braingame-dafdb.firebasestorage.app",
+  messagingSenderId: "480426581716",
+  appId: "1:480426581716:web:fdfb0fa32e18faf7642541",
+  measurementId: "G-32RH0X97JP"
 };
 
 const app = initializeApp(firebaseConfig);
